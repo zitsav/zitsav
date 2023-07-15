@@ -5,7 +5,6 @@
 - 📄 I'm a third year student at **IIIT Allahabad**
 - 🌱 I’m currently learning **Native Android Development and Backend Development**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
