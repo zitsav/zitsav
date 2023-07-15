@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Utsav!</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zitsav" alt="zitsav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-troph"><img src="https://github-profile-trophy.vercel.app/?username=zitsav&theme=gitdimmed" alt="zitsav" /></a> </p>
 
 
 - 📄 I'm a third year student at **IIIT Allahabad**
